@@ -20,18 +20,9 @@ export default {
         'grey': '#8f91a2',
       },
       fontFamily: {
-        sans: [
-          '"Inter"',
-          "ui-sans-serif",
-          "system-ui",
-          "sans-serif",
-          '"Apple Color Emoji"',
-          '"Segoe UI Emoji"',
-          '"Segoe UI Symbol"',
-          '"Noto Color Emoji"',
-        ],
-      },
-    },
+         FACT: ["fractul-variable","sans-serif"],
+        },
+        }
   },
   plugins: [],
 } satisfies Config;
