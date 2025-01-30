@@ -4,6 +4,9 @@ export default {
   content: ["./app/**/{**,.client,.server}/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      backgroundColor: {
+        "primary":'#fdf4e3'
+      },
       colors: {
         'background': '#fdf4e3',
         'purple': '#936af6',
