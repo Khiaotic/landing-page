@@ -5,6 +5,7 @@ import landingGreen2 from "./landing-logo-green2.svg"
 import React from "react";
 import Nav from "./navigation"
 import About from "./about"
+import Data from "./dataAnalysis"
 // import {Navbar, MobileNav, Typography, Button, IconButton} from "@material-tailwind/react"
 
 
@@ -33,6 +34,7 @@ export function Welcome() {
           </div>
         </header>
         <About />
+        <Data />
         <div className="max-w-[300px] w-full space-y-6 px-4">
         </div>
       </div>

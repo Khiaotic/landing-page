@@ -21,7 +21,7 @@ export default function About() {
                     1.Tyshawn Method: A more exaggerated pop and flick, inspired by the Tyshawn Jones' powerful ollie technique
                 </p>
                 <p className="font-bold mt-5">
-                    2.Regular Method: A more subtle pop and flick, inspired by the classic ollie technique. A standard tail pop!
+                    2.Regular Rim Method: A more subtle pop and flick, inspired by the classic ollie technique. A standard tail pop!
                 </p>
                 <p className="font-bold mt-5">
                     This page is here to help others understand the importance of ollies in the early stages of skating and maybe even provide
