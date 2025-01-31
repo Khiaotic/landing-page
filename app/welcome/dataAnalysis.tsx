@@ -1,5 +1,6 @@
 
 import React from "react";
+import boardData from "./skateboard_chart.svg"
 
 export default function Data() {
     return (
@@ -7,9 +8,8 @@ export default function Data() {
             {/* ////i want a container that has the image in the center, then two cards with the foot placement and information under them? */}
             <div>
             <img
-                className="mt-10"
-              src={maybe}
-              alt="React Router"
+              src={boardData}
+              alt="image of a skateboard with data on it"
               />
             </div>
         </section>
