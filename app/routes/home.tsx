@@ -9,6 +9,6 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Home() {
-  <h2>WTF</h2>
+ 
   return <Welcome />;
 }
